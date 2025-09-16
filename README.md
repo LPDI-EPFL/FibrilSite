@@ -26,7 +26,7 @@ To run the notebook you need to install the code package containing all the requ
 
 3- Install the code package in the **fibrilsite** environment 
 
-    pip install git+https://github.com/A-Sadek/FibrilSite.git
+    pip install git+https://github.com/LPDI-EPFL/FibrilSite.git
 
 4- Install Pandas v.0.25.3
     
