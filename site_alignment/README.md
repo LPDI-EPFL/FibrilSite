@@ -106,7 +106,7 @@ The *[./scripts/fibril_site_alignment_analysis.py]* script is tailored for the c
 
 2- Install the code package in the **fibrilsite** environment 
 
-    pip install git+https://github.com/A-Sadek/FibrilSite.git
+    pip install git+https://github.com/LPDI-EPFL/FibrilSite.git
 
 Or
 
